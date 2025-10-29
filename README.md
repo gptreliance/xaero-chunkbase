@@ -1,2 +1,4 @@
 # xaero-chunkbase
-chunkbase coord importer
+pip install something something
+watches over your clipboard when active
+saves as xaero waypoint
